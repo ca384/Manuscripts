@@ -8,7 +8,6 @@ output: word_document
 bibliography: references.bib
 ---
 
-
 ### Understanding mutation breeding in crops or incorporating mutation breeding with genomic prediction in taro
 
 Taro is one of the important root crops in Nigeria and other tropical countries. It is food for – people in the world ().
@@ -17,7 +16,6 @@ Taro is an important staple food in the world especially in the tropics and subt
 
 The world production of the crop for 2023 to 2024 () with Nigeria being the top producer of the crop ().
 
-\
 All parts of the taro are useful as food for both humans and animal. The young leaves are edible and so are the corms and cormels. Growing conditions of taro
 
 #### The botany of Taro
@@ -37,3 +35,6 @@ Mutation is the source of most genetic variation. It is occurs spontaneously and
 #### Genomic selection and mutation breeding workflow
 
 ![](images/mutation%20breeding%202-01.png)
+
+
+
