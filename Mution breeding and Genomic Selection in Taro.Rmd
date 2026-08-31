@@ -25,8 +25,8 @@ Taro is usually cultivated vegetatively using the corms and the cormels this is 
 Taro breeders are looking for ways to overcome the problem of seed availability and have employed method such as staggering the planting time to escape disease the peak of disease outbreak. Mutation breeding is one ,method that breeders can employ to increase genetic diversity of taro. We have to understand what mutation is before understanding what mutation breeding is.
 
 #### What is Mutation
-Mutation is a change in the nucleotide sequence of a short region of a genome. Mutation occurs either due to error in the DNA replication or from the effect of mutagens sush as chemicals heat and irradiation leading to heritable genetic changes.
-These changes can be in form of point mutation - replaces one nucleotide with another other; deletion or insertion of one or a few nucleotide.
+
+Mutation is a change in the nucleotide sequence of a short region of a genome. Mutation occurs either due to error in the DNA replication or from the effect of mutagens sush as chemicals heat and irradiation leading to heritable genetic changes. These changes can be in form of point mutation - replaces one nucleotide with another other; deletion or insertion of one or a few nucleotide.
 
 #### What is mutation breeding
 
@@ -35,6 +35,3 @@ Mutation is the source of most genetic variation. It is occurs spontaneously and
 #### Genomic selection and mutation breeding workflow
 
 ![](images/mutation%20breeding%202-01.png)
-
-
-
