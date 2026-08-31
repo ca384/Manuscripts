@@ -1,0 +1,36 @@
+---
+title: "Integrating mutation breeding and genomic selection in Taro"
+author: "Chinedozi and Dr Onyeka"
+date: "`r Sys.Date()`"
+mainfont: "Times New Roman"
+fontsize: 12pt
+output: word_document
+bibliography: references.bib
+---
+
+### Understanding mutation breeding in crops or incorporating mutation breeding with genomic prediction in taro
+
+Taro is one of the important root crops in Nigeria and other tropical countries. It is food for – people in the world ().
+
+Taro is an important staple food in the world especially in the tropics and subtropics. Taro belong to the botanical family Araceae (aroid family).
+
+The world production of the crop for 2023 to 2024 () with Nigeria being the top producer of the crop ().
+
+\
+All parts of the taro are useful as food for both humans and animal. The young leaves are edible and so are the corms and cormels. Growing conditions of taro
+
+#### The botany of Taro
+
+Taro is usually cultivated vegetatively using the corms and the cormels this is because of the firstly most taro varieties do not flow and or have produce poor seeds and secondly the onset of disease intercepts the time of flower maturation leading to the death of most of the plant hence lack of seeds available for the next planting season.
+
+Taro breeders are looking for ways to overcome the problem of seed availability and have employed method such as staggering the planting time to escape disease the peak of disease outbreak. Mutation breeding is one ,method that breeders can employ to increase genetic diversity of taro. We have to understand what mutation is before understanding what mutation breeding is.
+
+#### What is Mutation
+
+#### What is mutation breeding
+
+Mutation is the source of most genetic variation. It is occurs spontaneously and slowly in nature () Mutation breeding also called variation breeding is a method that uses physical radiation or chemicals to induce spontaneous genetic variation in plants to develop new crop varieties [@cvejic2026]
+
+#### Genomic selection and mutation breeding workflow
+
+![](images/mutation%20breeding%202-01.png)
