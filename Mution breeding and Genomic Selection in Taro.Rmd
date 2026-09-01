@@ -26,7 +26,7 @@ Taro breeders are looking for ways to overcome the problem of seed availability 
 
 #### What is Mutation
 
-Mutation is a change in the nucleotide sequence of a short region of a genome. Mutation occurs either due to error in the DNA replication or from the effect of mutagens sush as chemicals heat and irradiation leading to heritable genetic changes. These changes can be in form of point mutation - replaces one nucleotide with another other; deletion or insertion of one or a few nucleotide.
+Mutation is a change in the nucleotide sequence of a short region of a genome. Mutation occurs either due to error in the DNA replication or from the effect of mutagens sush as chemicals, heat and irradiation leading to structural changes n the DNA. these changes are inheritable. the change isuakly affect on one strand of the parent double helix. that is only one strand carries the mutation [@brown2002]. These changes can be in form of point mutation - replaces one nucleotide with another other; deletion or insertion of one or a few nucleotide.
 
 #### What is mutation breeding
 
