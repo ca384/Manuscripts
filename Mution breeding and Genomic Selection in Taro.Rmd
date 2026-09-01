@@ -30,8 +30,10 @@ Mutation is a change in the nucleotide sequence of a short region of a genome. M
 
 #### What is mutation breeding
 
-Mutation is the source of most genetic variation. It is occurs spontaneously and slowly in nature () Mutation breeding also called variation breeding is a method that uses physical radiation or chemicals to induce spontaneous genetic variation in plants to develop new crop varieties [@cvejic2026]
+Mutation is the source of most genetic variation. It is occurs spontaneously and slowly in nature () Mutation breeding also called variation breeding is a method that uses physical mutagens like ionized radiation such as x-rays, gammar rays and fast neutron. These radiations alter the DNA structure of plants. chemical mutagens such ethyl ethyl methanesulfonate, EMS to induce spontaneous genetic variation in plant to develop new crop varieties [@cvejic2026]
 
 #### Genomic selection and mutation breeding workflow
 
 ![](images/mutation%20breeding%202-01.png)
+
+#### The process of mutation breeding
