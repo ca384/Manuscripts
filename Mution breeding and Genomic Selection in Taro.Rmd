@@ -20,17 +20,23 @@ All parts of the taro are useful as food for both humans and animal. The young l
 
 #### The botany of Taro
 
-Taro is usually cultivated vegetatively using the corms and the cormels this is because of the firstly most taro varieties do not flow and or have produce poor seeds and secondly the onset of disease intercepts the time of flower maturation leading to the death of most of the plant hence lack of seeds available for the next planting season.
+Taro is usually cultivated vegetatively using the corms and the cormels this is because of the firstly most taro varieties do not flower and or have produce poor seeds and secondly the onset of disease intercepts the time of flower maturation leading to the death of most of the plant hence lack of seeds available for the next planting season. this is a major bottle neck of tara improvement.
 
-Taro breeders are looking for ways to overcome the problem of seed availability and have employed method such as staggering the planting time to escape disease the peak of disease outbreak. Mutation breeding is one ,method that breeders can employ to increase genetic diversity of taro. We have to understand what mutation is before understanding what mutation breeding is.
+Taro breeders are seeking for ways to overcome the problem of seed availability and have employed method such as staggering the planting time to escape disease the peak of disease outbreak. Mutation breeding is one method that breeders can employ to increase genetic diversity of taro. there is need to understand what mutation is before we think of mutation breeding
 
 #### What is Mutation
 
-Mutation is a change in the nucleotide sequence of a short region of a genome. Mutation occurs either due to error in the DNA replication or from the effect of mutagens sush as chemicals, heat and irradiation leading to structural changes n the DNA. these changes are inheritable. the change isuakly affect on one strand of the parent double helix. that is only one strand carries the mutation [@brown2002]. These changes can be in form of point mutation - replaces one nucleotide with another other; deletion or insertion of one or a few nucleotide.
+Mutation is a change in the nucleotide sequence of a short region of a genome. Mutation occurs either due to error in the DNA replication or from the effect of mutagens such as chemicals, heat and irradiation leading to structural changes n the DNA. The change usually affect on one strand of the parent double helix. that is only one strand carries the mutation [@brown2002]. 
+
+Mutation occur in small or large scale. Small scale mutation involves changes in one or few nucleotide. Small scale mutation includes deletion, insertion and substitution of one or few nucleotide. Substitution is also called point mutation - and it is when one nucleotide is  replaces  with another nucleotide. Point mutation has several outcomes such as silence mutation, misssence mutation and nonsense mutation.  Silence mutation occurs when the change in nucleotide of a codon leads to the formation of a new codon that translates into the same amino acid. Misscense mutation occurs when the codon is changed into another codon that translates into a different amino acid, and nonsense mutation occurs when the codon is changed into a codon that does not translate any amino acid. The resulting codon (the stop codon) of a nonsense mutation leads to the end of the a translation process. 
+
+
 
 #### What is mutation breeding
 
-Mutation is the source of most genetic variation. It is occurs spontaneously and slowly in nature () Mutation breeding also called variation breeding is a method that uses physical mutagens like ionized radiation such as x-rays, gammar rays and fast neutron. These radiations alter the DNA structure of plants. chemical mutagens such ethyl ethyl methanesulfonate, EMS to induce spontaneous genetic variation in plant to develop new crop varieties [@cvejic2026]
+Mutation is the source of most genetic variation. It is occurs spontaneously and slowly in nature () Mutation breeding also called variation breeding. It involves the use of physical mutagens like ionized radiation such as x-rays, gammar rays and fast neutron. These radiations alter the DNA structure of plants. Mutation also involves the use of chemical mutagens such ethyl ethyl methanesulfonate, EMS to induce spontaneous genetic variation in plant to develop new crop varieties [@cvejic2026]
+
+Mutation can be spontaneous. This is when mutation occurs naturally in a population resulting in new phenotype or variation in the population(). spontaneous mutation naturally occurs during adaptation and evolution processes at 
 
 #### Genomic selection and mutation breeding workflow
 
