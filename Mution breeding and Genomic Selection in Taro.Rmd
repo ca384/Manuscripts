@@ -38,21 +38,19 @@ Large scale mutation affects the entire structure of the chromosome. Large scale
 
 fig 1: Types of mutation
 
-Mutation is the main source of all genetic variation that occurs in organisms including plants (Kharkwal 2011). these variation are the source of raw materials needed for natural selection to operate and ring about evolution (Kharkwal 2011)
-Mutation can be spontaneous. This is when mutation occurs naturally in a population resulting in new phenotype or variation in the population(). spontaneous mutation naturally occurs during adaptation and evolution processes. Mutation can also be deliberately induced to occur.
+Mutation is the main source of all genetic variation that occurs in organisms including plants (Kharkwal 2011). these variation are the source of raw materials needed for natural selection to operate and ring about evolution (Kharkwal 2011) Mutation can be spontaneous. This is when mutation occurs naturally in a population resulting in new phenotype or variation in the population(). spontaneous mutation naturally occurs during adaptation and evolution processes. Mutation can also be deliberately induced to occur.
 
-### Mutagens
+#### Mutagens what are they?
 
-Mutation involves the use of physical mutagens like ionized radiation such as x-rays, gammar rays and fast neutron. These radiations alter the DNA structure of plants. Mutation also involves the use of chemical mutagens such ethyl ethyl methanesulfonate (EMS) to induce spontaneous genetic variation in plant to develop new crop varieties [@cvejic2026] one of the advantages of mutation breeding is that it increases the genetic diversity. 
-Mutation can also be induced using biotechnological processes (Kharkwal 2011)
+Mutation involves the use of physical mutagens like ionized radiation such as x-rays, gammar rays and fast neutron. These radiations alter the DNA structure of plants. Mutation also involves the use of chemical mutagens such ethyl ethyl methanesulfonate (EMS) to induce spontaneous genetic variation in plant to develop new crop varieties [@cvejic2026] one of the advantages of mutation breeding is that it increases the genetic diversity. Mutation can also be induced using biotechnological processes (Kharkwal 2011)
 
+![](images/clipboard-3635003267.png)
 
 #### Mutation breeding for crop improvement
 
 Crop improvements can be made when sufficient variation for a given trait of interest is available within the gene pool of the crop. In many cases, the desired variation may exist in out-dated varieties, old landraces (Forstera and Shu 2011). to harness these desired variations from the elite varieties or landraces into the new lines will involve long breeding process which might be less appealing to the plant breeder. A much better approach is to cause variation in the new lines without undergoing so several crosses and selection. Mutation breeding is one method that can create variation without involving crossing.
 
 Freisleben and Lein (1944) first defined the term mutation breeding as the deliberate induction and development of mutant lines for crop improvement (Forstera and Shu 2011). Mutation breeding is a processes of creating variation in plant by intentionally inducing mutations and utilize them for crop improvement.
-
 
 Genetic diversity is important to plant breeders because it allows for the selection of new traits. Although mutants can be produced using different mutagens, mutation breeding is restricted to the use of physical and chemical mutagens (Forstera and Shu 2011).
 
